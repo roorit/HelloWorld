@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class MainClass {
-
+public void g() {}
 	public static int F()throws Exception
 	{
 		throw new Exception("sdfsf");
